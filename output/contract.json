@@ -1,0 +1,13 @@
+{
+  "80001": {
+    "nft": "0x02560Cd045AC553A1181E8D6697f41616b79D044",
+    "moduleManager": "0x1F02ad65B684F41C5ff5e33b90bAC6B00bb9571E",
+    "erc721TransferHelper": "0x60f559A4BD46EC0ce6dE78fB93F5bc76dE67d2CB",
+    "erc20TransferHelper": "0xda30C79De7DAA664512A18487c74E0A885853242",
+    "royaltyFeeRegistry": "0xfC2A3b248f7de93c4D0AB6a2150a312c9E1A540C",
+    "royaltyFeeManager": "0xF6A7Ec9C0950B7c80182bAeC62ed7F82625cdB04",
+    "currencyManager": "0xD94A5cfA3065fFE12aACBAf6e9b1D1f8360f1E72",
+    "collectionManager": "0xA74b605fDb4dE0e8dC50E7C9d9Db346fEa84a458",
+    "asksV1": "0xF58756464836497EAD1e91b8B4a9b221316CA508"
+  }
+}

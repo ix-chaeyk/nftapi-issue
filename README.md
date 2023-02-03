@@ -6,7 +6,7 @@
 - Reveal NFT with requestRandomSeed(). Every NFT tokens are revealed.
 - But NFT API returns unrevealed metadata. Now API's results are different with actual token's metadata.
 
-# Run
+# Prepare
 
 You should create .env file
 ```
@@ -15,6 +15,12 @@ INFURA_SECRET=yyyyy
 ```
 
 And run
+```
+npm i
+npx hardhat compile
+```
+
+# Run
 
 ```
 npx hardhat infuraTest
